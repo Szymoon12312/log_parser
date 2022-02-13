@@ -1,0 +1,11 @@
+'test/3':
+  :visit_count: 2
+  :uniq_visit_count: 2
+  :uniq_addresses: 
+    - '111.111.111.111'
+    - '111.111.111.112'
+'test/1':
+  :visit_count: 10
+  :uniq_visit_count: 1
+  :uniq_addresses: 
+   - '111.111.111.111'
