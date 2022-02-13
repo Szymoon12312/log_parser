@@ -1,0 +1,7 @@
+Style/Documentation:
+  Exclude:
+    - 'spec/**/*'
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/parsers_spec.rb'
+    - 'spec/presenter_spec.rb'
